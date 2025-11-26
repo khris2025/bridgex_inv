@@ -185,7 +185,7 @@
                     </ul>
                 </div> -->
 
-                <a class="nav-link d-inline-block" href="https://users.digitalquantumgrowthalliance.com/login" style="color: white;">
+                <a class="nav-link d-inline-block" href="https://users.bridgexinv.com/login" style="color: white;">
                     <i class="bi bi-box-arrow-in-right me-1"></i>login
                 </a>
             </div>
@@ -217,8 +217,8 @@
             </div>
             <ul class="nav flex-column">
                 <li class="nav-item"><a class="nav-link" href="/"><i class="bi bi-house-door"></i> Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://users.digitalquantumgrowthalliance.com/login"><i class="bi bi-box-arrow-in-right"></i> Sign In</a></li>
-                <li class="nav-item"><a class="nav-link" href="https://users.digitalquantumgrowthalliance.com/register"><i class="bi bi-person-plus"></i> Sign Up</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://users.bridgexinv.com/login"><i class="bi bi-box-arrow-in-right"></i> Sign In</a></li>
+                <li class="nav-item"><a class="nav-link" href="https://users.bridgexinv.com/register"><i class="bi bi-person-plus"></i> Sign Up</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.php"><i class="bi bi-envelope"></i> Contact Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="about.php"><i class="bi bi-info-circle"></i> About Us</a></li>
                 <li class="nav-item"><a class="nav-link" href="Hedge-Funds.php"><i class="bi bi-bank"></i> Hedge Funds</a></li>

@@ -12,7 +12,7 @@ include("include/header.php");
               <div class="col-lg-7 text-white text-center text-lg-start">
                 <h1>Trade Stocks, Crypto Currencies, Options, Forex and More</h1>
                 <p class="fs-5">Join millions of users, from beginners to professionals, who use BRIDGEX INV. to purchase crypto, trade, and manage their investments in a smarter way.</p>
-                <a class="btn btn-lg btn-primary mt-3" href="https://users.digitalquantumgrowthalliance.com/login">Open Free Account</a>
+                <a class="btn btn-lg btn-primary mt-3" href="https://users.bridgexinv.com/login">Open Free Account</a>
               </div>
             </div>
             </div> -->
@@ -40,7 +40,7 @@ include("include/header.php");
          <div class="col-lg-7 text-white text-center text-lg-start px-4 px-lg-5">
             <h1>Trade Stocks, Crypto Currencies, Options, Forex and More</h1>
             <p class="fs-5">Join millions of users, from beginners to professionals, who use BRIDGEX INV. to purchase crypto, trade, and manage their investments in a smarter way.</p>
-            <a class="btn btn-lg btn-primary mt-3" href="https://users.digitalquantumgrowthalliance.com/login">Open Free Account</a>
+            <a class="btn btn-lg btn-primary mt-3" href="https://users.bridgexinv.com/login">Open Free Account</a>
          </div>
       </div>
    </div>
@@ -76,7 +76,7 @@ include("include/header.php");
                      Trade a wide range of markets with our award-winning trading platform. Benefit from low fees, fast order execution, and advanced features to increase your profitability.
                   </p>
                   <div class="text-center">
-                     <a class="btn btn-primary" href="https://users.digitalquantumgrowthalliance.com/login">Start Trading</a>
+                     <a class="btn btn-primary" href="https://users.bridgexinv.com/login">Start Trading</a>
                   </div>
                </div>
             </div>
@@ -91,7 +91,7 @@ include("include/header.php");
                      New to trading? Choose and automatically copy the best performing traders and get same returns! Experienced?
                   </p>
                   <div class="text-center">
-                     <a class="btn btn-primary" href="https://users.digitalquantumgrowthalliance.com/login">Start Copy-trading</a>
+                     <a class="btn btn-primary" href="https://users.bridgexinv.com/login">Start Copy-trading</a>
                   </div>
                </div>
             </div>
@@ -106,7 +106,7 @@ include("include/header.php");
                      Earn up to 14% APY on the most popular crypto assets. Interest is paid daily and your assets are never locked — add or withdraw funds at any time.
                   </p>
                   <div class="text-center">
-                     <a class="btn btn-primary" href="https://users.digitalquantumgrowthalliance.com/login">Start Earning</a>
+                     <a class="btn btn-primary" href="https://users.bridgexinv.com/login">Start Earning</a>
                   </div>
                </div>
             </div>
@@ -128,7 +128,7 @@ include("include/header.php");
                <p class="mt-3" style="font-size: 14px;">
                   BRIDGEX INV. has received multiple international trading industry awards for providing superior online trading services across the globe
                </p>
-               <a href="https://users.digitalquantumgrowthalliance.com/login" class="stretched-link">Start trading</a>
+               <a href="https://users.bridgexinv.com/login" class="stretched-link">Start trading</a>
             </div>
          </div>
          <!-- Card 2 -->
@@ -140,7 +140,7 @@ include("include/header.php");
                <p class="mt-3" style="font-size: 14px;">
                   We provide our clients with the most innovative products and access to a wide range of markets
                </p>
-               <a href="https://users.digitalquantumgrowthalliance.com/login" class="stretched-link">See all markets</a>
+               <a href="https://users.bridgexinv.com/login" class="stretched-link">See all markets</a>
             </div>
          </div>
          <!-- Card 3 -->
@@ -152,7 +152,7 @@ include("include/header.php");
                <p class="mt-3" style="font-size: 14px;">
                   Benefit from low fees, fast order execution, and advanced platform features to increase your profitability
                </p>
-               <a href="https://users.digitalquantumgrowthalliance.com/login" class="stretched-link">Open free account</a>
+               <a href="https://users.bridgexinv.com/login" class="stretched-link">Open free account</a>
             </div>
          </div>
          <!-- Card 4 -->
@@ -164,7 +164,7 @@ include("include/header.php");
                <p class="mt-3" style="font-size: 14px;">
                   Our platform is designed to protect funds and personal data better. Your privacy always comes first
                </p>
-               <a href="https://users.digitalquantumgrowthalliance.com/login" class="stretched-link">Learn more</a>
+               <a href="https://users.bridgexinv.com/login" class="stretched-link">Learn more</a>
             </div>
          </div>
       </div>
@@ -191,10 +191,10 @@ include("include/header.php");
          </div>
       </div>
       <div class="mt-5">
-         <a href="https://users.digitalquantumgrowthalliance.com/login" class="btn btn-primary me-2">Set up your trading account</a>
+         <a href="https://users.bridgexinv.com/login" class="btn btn-primary me-2">Set up your trading account</a>
          <br>
          <br>
-         <a href="https://users.digitalquantumgrowthalliance.com/login" class="btn btn-secondary">Discover our platform</a>
+         <a href="https://users.bridgexinv.com/login" class="btn btn-secondary">Discover our platform</a>
       </div>
    </div>
 </section>
@@ -245,8 +245,8 @@ include("include/header.php");
          </div>
       </div>
       <div>
-         <a href="https://users.digitalquantumgrowthalliance.com/login" class="btn btn-primary me-2">Open Free Account</a>
-         <a href="https://users.digitalquantumgrowthalliance.com/login" class="btn btn-secondary">Discover our platform</a>
+         <a href="https://users.bridgexinv.com/login" class="btn btn-primary me-2">Open Free Account</a>
+         <a href="https://users.bridgexinv.com/login" class="btn btn-secondary">Discover our platform</a>
       </div>
    </div>
 </section>
